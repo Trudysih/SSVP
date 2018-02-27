@@ -1,0 +1,12 @@
+{
+  "mongodb": {
+    "host": "ds239587.mlab.com",
+    "port": 39587,
+    "url": "mongodb://SSVP:SSVP@ds239587.mlab.com:39587/ssvp_database",
+    "database": "ssvp_database",
+    "password": "SSVP",
+    "name": "mongodb",
+    "user": "SSVP",
+    "connector": "mongodb"
+  }
+}
